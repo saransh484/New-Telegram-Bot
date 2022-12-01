@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { Bot } = require("grammy");
 
 // Create an instance of the `Bot` class and pass your authentication token to it.
